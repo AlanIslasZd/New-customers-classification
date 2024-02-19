@@ -1,0 +1,4 @@
+SELECT
+ COUNT(1)
+FROM
+  `edw-prod-153420.sfdc.account_scd2`
