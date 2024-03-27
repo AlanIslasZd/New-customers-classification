@@ -22,4 +22,6 @@ It was tested to select a random recent date too. I guess both possibilities cou
 - List of tickets with comments where the dynamic segmentation and Churn status should be included
 
 - https://docs.google.com/spreadsheets/d/1QQolh5OBWAu44mh8odlTQ8dlioSBjyvblEc4MaUkA2M/edit#gid=1299009136
+
+- `edw-prod-153420.edw_analyst_general.eda_dse_top100` 
  
